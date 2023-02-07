@@ -1,0 +1,45 @@
+.container{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    margin: auto;
+    border-radius: 15px;
+}
+h1{
+font-size: 60px;
+text-align: center;
+font-weight: 600;
+font-style: italic;
+}
+.ansbut{
+position: relative;
+top: 10px;
+display: flex;
+justify-content: center;
+border-radius: 15px;
+background-color: blueviolet;
+height: 40px;
+width: 240px;
+margin:auto;
+}
+.num{
+height: 200px;
+width: 240px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
+background-color: brown;
+border-radius: 15px;
+margin: auto;
+
+
+}
+.buttons{
+background-color: white;
+border-radius: 15px;
+height: 35px;
+width: 50px;
+border-radius: 15px;
+border-bottom: none;
+}
